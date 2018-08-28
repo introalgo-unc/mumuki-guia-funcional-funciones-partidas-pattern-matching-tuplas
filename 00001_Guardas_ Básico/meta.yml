@@ -1,10 +1,11 @@
 ---
-tags: []
+tags:
+- guardas
+- funciones partidas
 layout: input_right
 editor: code
 type: problem
 extra_visible: false
-language: 
-teacher_info: ''
 manual_evaluation: false
 choices: []
+name: 'Guardas: Básico'

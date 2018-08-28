@@ -6,7 +6,6 @@ layout: input_bottom
 editor: code
 type: problem
 extra_visible: false
-language: 
-teacher_info: 
 manual_evaluation: false
 choices: []
+name: No todo lo que brilla es Oro
